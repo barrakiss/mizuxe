@@ -1,0 +1,6 @@
+/node_modules
+/vendor
+.gitignore
+/.idea/**/*
+gulpfile.js
+public_html
