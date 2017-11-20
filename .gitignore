@@ -3,4 +3,6 @@
 .gitignore
 /.idea/**/*
 gulpfile.js
-public_html
+#public_html
+/assets
+/templates
